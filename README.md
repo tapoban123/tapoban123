@@ -4,7 +4,7 @@ I'm Tapoban Ray, a dedicated and passionate software developer committed to buil
 
 [![Tapoban's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapoban123)](https://github.com/tapoban123/github-readme-stats)
 <br>
-[![Tapobans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tapoban123&theme=dracula)](https://github.com/tapoban123/github-readme-activity-graph)
+[![Tapobans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tapoban123&theme=tokyo-night)](https://github.com/tapoban123/github-readme-activity-graph)
 
 
 <!--
