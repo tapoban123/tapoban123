@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+I am an intermediate-level programmer. 
+I am quite experienced with Python Programming Language. 
+I have created multiple GUI-based projects using _Tkinter_ and _sqlite_ in **Python**. 
+I can also write advanced MYSQL queries. 
+Currently I am learning Android App Development with Flutter and Firebase. I haven't uploaded any project on Flutter yet, but very soon I'll be posting some of the amazing android applications created by me in Flutter framework.   
 <!--
 **tapoban123/tapoban123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
