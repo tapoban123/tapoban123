@@ -11,9 +11,10 @@ Skills: Python / MySQL / Flutter / Dart / Firebase
 - 🔭 I’m currently working on Advanced Python and Flutter 
 - 🌱 I’m currently learning Android App Development with Flutter 
 
+<!--
 <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tapoban123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/tapobanray)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tapobanray/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tapobanray/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/22213440)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC6R_OJsGdlbNNiApIfHjrGQ)  
-
+-->
 
 
 [![Tapoban's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapoban123)](https://github.com/tapoban123/github-readme-stats)
