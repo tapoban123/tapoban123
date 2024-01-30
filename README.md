@@ -18,8 +18,8 @@ Currently, I'm venturing into the realm of mobile app development with Flutter, 
 
 You may visit my YouTube channel at <a href="https://youtube.com/@TheTechnologyGeek-qt8lm?si=AaNvD1bGWwwAyrig&v=UC6R_OJsGdlbNNiApIfHjrGQ" target="_blank">The Technology Geek</a>
 
-<br><br>
-[![Tapoban's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapoban123)](https://github.com/tapoban123/github-readme-stats)
+<!--<br><br>
+[![Tapoban's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapoban123)](https://github.com/tapoban123/github-readme-stats)-->
 <br><br>
 [![Tapobans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tapoban123&theme=tokyo-night)](https://github.com/tapoban123/github-readme-activity-graph)
 
