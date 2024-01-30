@@ -6,7 +6,7 @@ With a solid foundation in Python programming, I specialize in creating intuitiv
 My proficiency extends to crafting advanced MySQL queries for efficient database management.<br>
 Currently, I'm venturing into the realm of mobile app development with Flutter, eager to apply my skills to create seamless user experiences on Android platforms.
 <br><br>
-Skills: Python / MySQL / Flutter / Dart / Firebase
+**Skills:** _Python / MySQL / Flutter / Dart / Firebase_
 
 - 🔭 I’m currently working on Advanced Python and Flutter 
 - 🌱 I’m currently learning Android App Development with Flutter 
