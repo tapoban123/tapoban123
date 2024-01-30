@@ -3,6 +3,9 @@ I'm Tapoban Ray, a dedicated and passionate software developer committed to buil
 <br><br> You can check out my LinkedIn at https://www.linkedin.com/in/tapobanray/ or my YouTube at https://youtube.com/@TheTechnologyGeek-qt8lm?si=MVlQRyPkZviUM40I
 
 [![Tapoban's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapoban123)](https://github.com/tapoban123/github-readme-stats)
+<br>
+[![Tapobans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tapoban123&theme=dracula)](https://github.com/tapoban123/github-readme-activity-graph)
+
 
 <!--
 **tapoban123/tapoban123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
