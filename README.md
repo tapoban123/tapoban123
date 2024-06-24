@@ -1,15 +1,15 @@
-![Python Developer and Flutter Enthusiast](https://github.com/tapoban123/tapoban123/blob/main/GitHub%20Banner.png)
+![Professional Android Developer](https://github.com/tapoban123/tapoban123/blob/main/GitHub%20Banner.png)
 # Tapoban Ray
-## Python Developer and Flutter Enthusiast
-I'm Tapoban Ray, a dedicated and passionate software developer committed to building innovative solutions and pushing the boundaries of technology. I really enjoy learning languages like, Java, JavaScript, GoLang, and many more.<br>
-With a solid foundation in Python programming, I specialize in creating intuitive graphical user interfaces using TKinter.<br>
-My proficiency extends to crafting advanced MySQL queries for efficient database management.<br>
-Currently, I'm venturing into the realm of mobile app development with Flutter, eager to apply my skills to create seamless user experiences on Android platforms.
+## Professional Android Developer
+I'm Tapoban Ray, a dedicated and passionate software developer committed to building innovative solutions and pushing the boundaries of technology. I really enjoy learning languages like, Dart, Java, JavaScript, GoLang, and many more.<br>
+With a solid foundation in Dart programming, I specialize in creating professional Android applications using Flutter.<br>
+My proficiency extends to crafting advanced MySQL queries for efficient database management and building GUI applications using Python.<br>
+Currently, I'm venturing into the realm of Augmented Reality, eager to apply my skills to create seamless user experiences on Android platforms.
 <br><br>
-**Skills:** _Python / MySQL / Flutter / Dart / Firebase_
+**Skills:** _Flutter / Dart / Firebase / Python / MySQL_
 
-- 🔭 I’m currently working on Advanced Python and Flutter 
-- 🌱 I’m currently learning Android App Development with Flutter 
+- 🔭 I’m currently working on Flutter and Dart 
+- 🌱 I’m currently learning development of AR apps 
 
 <!--
 <br>
