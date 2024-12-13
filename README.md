@@ -6,7 +6,17 @@ With a solid foundation in Dart programming, I specialize in creating profession
 My proficiency extends to crafting advanced MySQL queries for efficient database management and building GUI applications using Python.<br>
 Currently, I'm venturing into the realm of Augmented Reality, eager to apply my skills to create seamless user experiences on Android platforms.
 <br><br>
-**Skills:** _Flutter | Dart | Firebase | Python | FastAPI | MySQL | PostgreSQL_
+
+## Tech Stack
+![Flutter](https://ih1.redbubble.net/image.4858127711.2660/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg)
+![Dart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoxiRajTWnNdhHO1ZF2oxaJevJJZJ00AXxZxBzxEPBZGijOFEgKgYGAUtshf7jhoOEtQ&usqp=CAU)
+![Python](https://www.pngitem.com/pimgs/m/139-1396035_python-logo-lens-flare-python-software-logo-png.png)
+![FastAPI]([https://ih1.redbubble.net/image.4858127711.2660/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg](https://cdn.worldvectorlogo.com/logos/fastapi.svg))
+![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png)
+![MySQL](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb9eimO5lZLpyM-qYudMVu6KTPj4U2RL715g&s)
+![Firebase](https://www.cdnlogo.com/logos/f/48/firebase.svg)
+
+<!-- **Skills:** _Flutter | Dart | Firebase | Python | FastAPI | MySQL | PostgreSQL_ -->
 
 - 🔭 I’m currently gaining more expertise using Dart and Flutter to build more complex and more efficient cross-platform applications.  
 - 🌱 I’m currently learning development of Native Android apps using Kotlin and Jetpack Compose.
