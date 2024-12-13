@@ -6,13 +6,15 @@ With a solid foundation in Dart programming, I specialize in creating profession
 My proficiency extends to crafting advanced MySQL queries for efficient database management and building GUI applications using Python.<br>
 Currently, I'm venturing into the realm of Augmented Reality, eager to apply my skills to create seamless user experiences on Android platforms.
 <br><br>
-**Skills:** _Flutter || Dart || Firebase || Python || FastAPI || MySQL || PostgreSQL_
+**Skills:** _Flutter | Dart | Firebase | Python | FastAPI | MySQL | PostgreSQL_
 
 - 🔭 I’m currently gaining more expertise using Dart and Flutter to build more complex and more efficient cross-platform applications.  
 - 🌱 I’m currently learning development of Native Android apps using Kotlin and Jetpack Compose.
 
 ## Experiences
 - I am currently working as a Flutter Developer Intern at [Craft My Plate](https://craftmyplate.com/).
+
+<br>
 <!--
 <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tapoban123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/tapobanray)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tapobanray/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tapobanray/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/22213440)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC6R_OJsGdlbNNiApIfHjrGQ)  
