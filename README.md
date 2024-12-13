@@ -26,7 +26,8 @@ Currently, I'm venturing into the realm of Augmented Reality, eager to apply my 
 ![Firebase](https://www.cdnlogo.com/logos/f/48/firebase.svg)
 -->
 <!-- **Skills:** _Flutter | Dart | Firebase | Python | FastAPI | MySQL | PostgreSQL_ -->
-<br><br>
+<br>
+## My Journey
 - 🔭 I’m currently gaining more expertise using Dart and Flutter to build more complex and more efficient cross-platform applications.  
 - 🌱 I’m currently learning development of Native Android apps using Kotlin and Jetpack Compose.
 
