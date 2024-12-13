@@ -13,7 +13,7 @@ Currently, I'm venturing into the realm of Augmented Reality, eager to apply my 
  - Python
  - FastAPI
  - MySQL
- - PostgreSQL_
+ - PostgreSQL
  - Firebase
 
 <!--
