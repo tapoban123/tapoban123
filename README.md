@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Cross-Platform Projects**
 
-- 🤝 I’m looking for help with **Any Flutter Project**
+- 🤝 I’m looking for help with **learning AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tapoban123](https://github.com/tapoban123)
 
