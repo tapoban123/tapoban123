@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Tapoban Ray</h1>
+<h1 align="center">Hi 👋, I'm [Tapoban Ray](https://tapoban123.github.io/)</h1>
 <h3 align="center">An Application Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapoban123&theme=tokyonight" alt="tapoban123" /></a> </p>
