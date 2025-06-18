@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapoban123&theme=tokyonight" alt="tapoban123" /></a> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapoban123&title=-Stars,-Reviews,-Followers&theme=matrix&margin-w=10" alt="tapoban123" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapoban123&title=-Stars,-Reviews,-Followers&theme=matrix&margin-w=10&column=3" alt="tapoban123" /></a> </p>
 
 - 🌱 I’m currently mastering **Generative AI Development using Python**
 
