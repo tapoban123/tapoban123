@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm <a href="https://tapoban123.github.io/" target="_blank">Tapoban Ray</a></h1> -->
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&center=true&multiline=true&repeat=false&width=1000&height=150&lines=Greetings%2C;I'm+Tapoban+Ray%2C+a+Full+Stack+Application+Developer" alt="Typing SVG" /></a> </p>
 <!-- <h3 align="center">A Full Stack Application Developer from India</h3> -->
-
+<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-Purple?style=flat&logo=https://docs.flutter.dev/assets/images/flutter-logo-sharing.png&link=https://flutter.dev/" alt="Flutter" /></a>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapoban123&theme=tokyonight" alt="tapoban123" /></a> </p> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapoban123&title=-Stars,-Reviews,-Followers&theme=matrix&margin-w=10&column=3" alt="tapoban123" /></a> </p>
