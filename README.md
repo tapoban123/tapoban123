@@ -23,6 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
+  [![Linkedin](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 <a href="https://twitter.com/tapoban_ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tapoban_ray" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tapobanray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tapobanray" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22213440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22213440" height="30" width="40" /></a>
