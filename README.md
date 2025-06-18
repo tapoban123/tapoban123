@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi 👋, I'm <a href="https://tapoban123.github.io/" target="_blank">Tapoban Ray</a></h1> -->
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&multiline=true&width=435&lines=Greetings;I'm+Tapoban+Ray%2C+a+Full+Stack+Application+Developer" alt="Typing SVG" /></a> </p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&center=true&multiline=true&width=435&height=120&lines=Greetings;I'm+Tapoban+Ray%2C+a+Full+Stack+Application+Developer" alt="Typing SVG" /></a> </p>
 <h3 align="center">A Full Stack Application Developer from India</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapoban123&theme=tokyonight" alt="tapoban123" /></a> </p> -->
