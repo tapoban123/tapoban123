@@ -62,10 +62,10 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapoban123&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tapoban123&show_icons=true&locale=en&theme=vision-friendly-dark" alt="tapoban123" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tapoban123&show_icons=true&locale=en&theme=vision-friendly-dark" alt="Github Stats" /></p> -->
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tapoban123&theme=tokyonight" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tapoban123&theme=tokyonight" alt="Profile Summary" />
 
 
 
