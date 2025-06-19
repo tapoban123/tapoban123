@@ -6,21 +6,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapoban123&title=-Stars,-Reviews,-Followers&theme=matrix&margin-w=10&column=3" alt="tapoban123" /></a> </p>
 
 
-<br>
-<br>
-
-- 🌱 I’m currently mastering **Generative AI Development using Python and Langchain**
-
-- 👯 I’m looking to collaborate on **Cross-Platform Projects**
-
-<!-- - 🤝 I’m looking for help with **learning AI/ML** -->
-
-<!-- - 👨‍💻 All of my projects are available at [https://github.com/tapoban123](https://github.com/tapoban123) -->
-
-- 💬 Ask me about **Flutter, Dart, Python, Langchain, FastAPI**
-
-- 📫 How to reach me **developertapobanray@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/tapoban_ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tapoban_ray" height="30" width="40" /></a>
