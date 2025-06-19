@@ -65,6 +65,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tapoban123&show_icons=true&locale=en&theme=vision-friendly-dark" alt="tapoban123" /></p>
 
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tapoban123&theme=tokyonight" />
+
 
 
 
