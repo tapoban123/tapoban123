@@ -20,7 +20,6 @@
 
 
 ## Skills 
-<p align="center">
 <table style="margin: 0px auto;">
   <tr>
     <th>Category</th>
@@ -51,7 +50,6 @@
     <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /></td>
   </tr>
 </table>
-</p>
 <!--    <img src="" /> <img src="" /> -->
 
 <!--
