@@ -21,7 +21,7 @@
 
 ## Skills 
 <p align="center">
-  <table>
+<table style="margin: 0px auto;">
   <tr>
     <th>Category</th>
     <th>Skills</th>
